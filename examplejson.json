@@ -1,0 +1,39 @@
+{
+    "type": "sisr|srgs|umrcp-gdf",
+    "rules": [
+        {
+            "id": "yes",
+            "tag": "yes",
+            "items": [
+                {
+                    "value": "yes",
+                    "tag": null
+                },
+                {
+                    "value": "yeah",
+                    "tag": null
+                },
+                {
+                    "value": "yis"
+                }
+            ]
+        },
+        {
+            "id": "no",
+            "tag": "no",
+            "items": [
+                {
+                    "value": "no",
+                    "tag": null
+                },
+                {
+                    "value": "know",
+                    "tag": null
+                },
+                {
+                    "value": "oh"
+                }
+            ]
+        }
+    ]
+}
